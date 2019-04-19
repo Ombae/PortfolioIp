@@ -87,3 +87,11 @@
 .content ol li{
   color: white;
 }
+#footer{
+  height: 200px;
+  width: 100%;
+  background-color: rgb(68, 182, 230);
+}
+#footer1{
+  width: 40%;
+}
