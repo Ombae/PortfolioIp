@@ -1,0 +1,25 @@
+#toplogo{
+  margin-left: 50px;
+  float: right;
+}
+#nav{
+  height: 50px;
+  background-color: rgb(20, 70, 150);
+}
+#nav ul{
+  float: right;
+}
+#nav ul li{
+  list-style-type: none;
+  display: inline;
+}
+#nav ul li a{
+  text-transform: uppercase;
+  font-size: 20px;
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+  border-right: 2px solid white;
+  padding-right: 8px;
+  padding-left: 10px;
+  font-family: Calibri;
+}
