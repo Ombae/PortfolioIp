@@ -50,19 +50,40 @@
   height: 450px;
 }
 #bodi{
-  background-color: rgb(41, 79, 112);
+  background-color: rgb(20, 70, 150);
   height: 400px;
 }
 .content{
   height: 400px;
-  width: 33%;
-  border: 1px solid white;
+  width: 31%;
+  padding: 2px;
+  /*border: 1px solid white;*/
   float: left;
 }
 .content h1{
   color: rgb(250, 250, 250);
   text-decoration: underline;
 }
-content p{
+.content h3{
+  color: white;
+}
+.content p{
   color: rgb(255, 255, 255);
+}
+.content img{
+  height: 70px;
+  width: 20%;
+  display: inline;
+  float: left;
+  padding-right: 9px;
+}
+.content a{
+  color: white;
+  text-decoration: underline;
+}
+.content ul li{
+  color: white;
+}
+.content ol li{
+  color: white;
 }
