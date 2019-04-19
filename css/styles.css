@@ -2,6 +2,9 @@
   height: 100px;
   width: 100%;
 }*/
+body{
+  background-color: rgb(190,190, 190);
+}
 #seth h1{
   color: rgb(20, 70, 150);
   font-style: italic;
